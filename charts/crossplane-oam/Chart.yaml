@@ -1,0 +1,22 @@
+apiVersion: v1
+appVersion: 0.10.0-rc.24.g61146c2
+description: Crossplane, Open Application Model runtime.
+home: https://oam.dev
+keywords:
+- clusters as cattle
+- infrastructure
+- iac
+- workloads
+- gcp
+- azure
+- aws
+- rds
+- cloudsql
+- gke
+- aks
+- eks
+maintainers:
+- email: info@crossplane.io
+  name: Crossplane OAM Maintainers
+name: crossplane-oam
+version: 1.0.0
